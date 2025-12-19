@@ -12,7 +12,7 @@
 
 Running a hotel isn’t easy. Guests want fast service, staff need clear tasks, and managers need to know what’s happening. This **Hotel Management System** is a super-smart database built with Oracle PL/SQL to make hotels run like a dream. It’s my final exam project for **Database Development with PL/SQL (INSY 8311)** at Adventist University of Central Africa (AUCA), and it’s designed to help hotels with 50–200 rooms switch from messy paper or Excel to a smooth, automated system.
 
-**Student**: KAREMERA Hero 
+**Student**: KAREMERA Hero Higiro
 **Student ID**: 28609  
 **Course**: Database Development with PL/SQL (INSY 8311)  
 **Lecturer**: Eric Maniraguha (eric.maniraguha@auca.ac.rw)  
@@ -760,9 +760,9 @@ I tested these triggers to make sure they’re doing their jobs like superheroes
 
 ## 📞 Let’s Talk! 📲
 
-**Author**: NGENZI Blaise  
-**Email**: Blaisingenzi@gmail.com  
-**Student ID**: 27488  
+**Author**: Karemera Hero Higiro  
+**Email**: herohigiro123@gmail.com  
+**Student ID**: 28609  
 **Institution**: AUCA - Faculty of Information Technology  
 **Supervisor**: Eric Maniraguha (eric.maniraguha@auca.ac.rw)
 
@@ -772,7 +772,7 @@ I tested these triggers to make sure they’re doing their jobs like superheroes
 ---
 
 **Status**: ✅ All Done!  
-**Last Updated**: May 23, 2025  
+**Last Updated**: December 3, 2025  
 
 
 *This is my final exam for INSY 8311, built with passion, coffee ☕, and a dream to make hotels amazing!*
